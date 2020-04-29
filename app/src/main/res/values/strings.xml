@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Covid19India</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+
+    <string name="covid_19">COVID19</string>
+    <string name="country_name">INDIA</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="confirmed_string">Confirmed</string>
+    <string name="recoveredString">Recovered</string>
+    <string name="deceasedString">Deceased</string>
+    <string name="active_string">Active</string>
+    <string name="no_internet_connection">Please check you network and please try again</string>
+    <string name="States">States</string>
+    <string name="search_hint"><font size="14">Enter keywords</font></string>
+    <string name="notification_act">Notifications</string>
+    <string-array name="states">
+
+        <item>Andaman and Nicobar Islands</item>
+        <item>Andhra Pradesh</item>
+        <item>Arunachal Pradesh</item>
+        <item>Assam</item>
+        <item>Bihar</item>
+        <item>Chandigarh</item>
+        <item>Chhattisgarh</item>
+        <item>Dadra and Nagar Haveli</item>
+        <item>Daman and Diu</item>
+        <item>Delhi</item>
+        <item>Goa</item>
+        <item>Gujarat</item>
+        <item>Haryana</item>
+        <item>Himachal Pradesh</item>
+        <item>Jammu and Kashmir</item>
+        <item>Jharkhand</item>
+        <item>Karnataka</item>
+        <item>Kerala</item>
+        <item>Lakshadweep</item>
+        <item>Madhya Pradesh</item>
+        <item>Maharashtra</item>
+        <item>Manipur</item>
+        <item>Meghalaya</item>
+        <item>Mizoram</item>
+        <item>Nagaland</item>
+        <item>Orissa</item>
+        <item>Pondicherry</item>
+        <item>Punjab</item>
+        <item>Rajasthan</item>
+        <item>Sikkim</item>
+        <item>Tamil Nadu</item>
+        <item>Telangana</item>
+        <item>Tripura</item>
+        <item>Uttaranchal</item>
+        <item>Uttar Pradesh</item>
+        <item>West Bengal</item>
+    </string-array>
+</resources>
